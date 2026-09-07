@@ -25,5 +25,5 @@ A simple, interactive command-line calculator written in Python. It supports bas
 
 1. **Clone or Download the Repository**
    ```bash
-git clone [https://github.com/ahmed-codecraft/Calculator.git](https://github.com/ahmed-codecraft/Calculator.git)
-cd Calculator
+   git clone [https://github.com/ahmed-codecraft/Calculator.git](https://github.com/ahmed-codecraft/Calculator.git)
+   cd Calculator
