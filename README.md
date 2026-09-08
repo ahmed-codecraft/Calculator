@@ -1,5 +1,3 @@
---- Python Calculator ---
-
 # Python Command-Line Calculator
 
 A simple, interactive command-line calculator written in Python. It supports basic arithmetic operations, exponentiation, and modulo calculations with input validation and zero-division error handling.
